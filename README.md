@@ -10,4 +10,4 @@ well-known Page Rank algorithm to this network identifying the most relevant nod
 proteins. The RNA-Seq datasets analyzed and all the generated information were stored in a database. In addition, we implemented the web
 application UPEFinder (https://upefinder.proteored.org) in order to facilitate the access to this new resource. This information is 
 specially relevant for the researchers of the HPP project interested in the generation and validation of new hypotheses about the 
-functions of the uPE1 proteins. Both the database and the web application are publicly available (https://github.com/ubioinformat/UPEfinder).
+functions of the uPE1 proteins. Both the database and the web application are publicly available (https://github.com/ubioinformat/UPEFinder).
