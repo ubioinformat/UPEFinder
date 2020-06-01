@@ -1,0 +1,1231 @@
+Dataset	NexprotID	EnsmbleID	GeneName	uPE1	PE_level	Chr	DB	Ontology	Description	
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010631	epithelial cell migration
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010632	regulation of epithelial cell migration
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010634	positive regulation of epithelial cell migration
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010669	epithelial structure maintenance
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010745	negative regulation of macrophage derived foam cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010771	negative regulation of cell morphogenesis involved in differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010837	regulation of keratinocyte proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010839	negative regulation of keratinocyte proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010883	regulation of lipid storage
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010888	negative regulation of lipid storage
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0015718	monocarboxylic acid transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0015721	bile acid and bile salt transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0015840	urea transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0015893	drug transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016024	CDP-diacylglycerol biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016101	diterpenoid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016137	glycoside metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016266	O-glycan processing
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016337	cell-cell adhesion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016338	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016477	cell migration
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016540	protein autoprocessing
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0017144	drug metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0018108	peptidyl-tyrosine phosphorylation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0018149	peptide cross-linking
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0018212	peptidyl-tyrosine modification
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0018345	protein palmitoylation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0019317	fucose catabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0019369	arachidonic acid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0019370	leukotriene biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0019372	lipoxygenase pathway
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0019373	epoxygenase P450 pathway
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0019432	triglyceride biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0019585	glucuronate metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021532	neural tube patterning
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021533	cell differentiation in hindbrain
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021692	cerebellar Purkinje cell layer morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021696	cerebellar cortex morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021700	developmental maturation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021846	cell proliferation in forebrain
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021869	forebrain ventricular zone progenitor cell division
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021904	dorsal/ventral neural tube patterning
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021936	regulation of cerebellar granule cell precursor proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021937	cerebellar Purkinje cell-granule cell precursor cell signaling involved in regulation of granule cell precursor cell proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0021940	positive regulation of cerebellar granule cell precursor proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0022010	central nervous system myelination
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0022027	interkinetic nuclear migration
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0022404	molting cycle process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0022405	hair cycle process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0022407	regulation of cell-cell adhesion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0022600	digestive system process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0022603	regulation of anatomical structure morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0022610	biological adhesion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0022612	gland morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030029	actin filament-based process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030031	cell projection assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030036	actin cytoskeleton organization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030048	actin filament-based movement
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030104	water homeostasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030154	cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030155	regulation of cell adhesion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030193	regulation of blood coagulation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030195	negative regulation of blood coagulation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030216	keratinocyte differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030259	lipid glycosylation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030277	maintenance of gastrointestinal epithelium
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030334	regulation of cell migration
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030449	regulation of complement activation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030593	neutrophil chemotaxis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030595	leukocyte chemotaxis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030647	aminoglycoside antibiotic metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030855	epithelial cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030856	regulation of epithelial cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031018	endocrine pancreas development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031424	keratinization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031581	hemidesmosome assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032101	regulation of response to external stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032147	activation of protein kinase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032288	myelin assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032291	axon ensheathment in central nervous system
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032303	regulation of icosanoid secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032305	positive regulation of icosanoid secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032308	positive regulation of prostaglandin secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032309	icosanoid secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032318	regulation of GTPase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032319	regulation of GTPase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032320	positive regulation of GTPase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032321	positive regulation of GTPase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032368	regulation of lipid transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032369	negative regulation of lipid transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032370	positive regulation of lipid transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032494	response to peptidoglycan
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032495	response to muramyl dipeptide
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032501	multicellular organismal process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032502	developmental process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032604	granulocyte macrophage colony-stimulating factor production
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032616	interleukin-13 production
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032620	interleukin-17 production
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032645	regulation of granulocyte macrophage colony-stimulating factor production
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032656	regulation of interleukin-13 production
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032660	regulation of interleukin-17 production
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032733	positive regulation of interleukin-10 production
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032740	positive regulation of interleukin-17 production
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032753	positive regulation of interleukin-4 production
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032787	monocarboxylic acid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032846	homeostatic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032874	positive regulation of stress-activated MAPK cascade
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032879	regulation of localization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032892	positive regulation of organic acid transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032956	regulation of actin cytoskeleton organization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0032970	regulation of actin filament-based process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033077	T cell differentiation in thymus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033079	immature T cell proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033080	immature T cell proliferation in thymus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033081	regulation of T cell differentiation in thymus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033083	regulation of immature T cell proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033084	regulation of immature T cell proliferation in thymus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033089	positive regulation of T cell differentiation in thymus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033209	tumor necrosis factor-mediated signaling pathway
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033559	unsaturated fatty acid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033630	positive regulation of cell adhesion mediated by integrin
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0033674	positive regulation of kinase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034103	regulation of tissue remodeling
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034105	positive regulation of tissue remodeling
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034115	negative regulation of heterotypic cell-cell adhesion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034123	positive regulation of toll-like receptor signaling pathway
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034220	ion transmembrane transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034308	primary alcohol metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034310	primary alcohol catabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034329	cell junction assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034330	cell junction organization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034331	cell junction maintenance
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034394	protein localization to cell surface
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034694	response to prostaglandin
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034754	cellular hormone metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034764	positive regulation of transmembrane transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0034767	positive regulation of ion transmembrane transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0035019	somatic stem cell population maintenance
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0035023	regulation of Rho protein signal transduction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0035088	establishment or maintenance of apical/basal cell polarity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0035238	vitamin A biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0035272	exocrine system development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0000165	MAPK cascade
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001516	prostaglandin biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001523	retinoid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001525	angiogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001568	blood vessel development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001656	metanephros development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001657	ureteric bud development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001660	fever generation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001676	long-chain fatty acid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001708	cell fate specification
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001738	morphogenesis of a polarized epithelium
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001780	neutrophil homeostasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0035725	sodium ion transmembrane transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0035970	peptidyl-threonine dephosphorylation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0036149	phosphatidylinositol acyl-chain remodeling
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0036150	phosphatidylserine acyl-chain remodeling
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0036151	phosphatidylcholine acyl-chain remodeling
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0036152	phosphatidylethanolamine acyl-chain remodeling
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0038061	NIK/NF-kappaB signaling
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0038084	vascular endothelial growth factor signaling pathway
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0040011	locomotion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0040012	regulation of locomotion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042044	fluid transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042060	wound healing
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042127	regulation of cell proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042178	xenobiotic catabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042221	response to chemical
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042303	molting cycle
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042330	taxis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042354	L-fucose metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042355	L-fucose catabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042362	fat-soluble vitamin biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042475	odontogenesis of dentin-containing tooth
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042476	odontogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042481	regulation of odontogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042490	mechanoreceptor differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042491	inner ear auditory receptor cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042537	benzene-containing compound metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042554	superoxide anion generation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042572	retinol metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042573	retinoic acid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042574	retinal metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042592	homeostatic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042633	hair cycle
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042634	regulation of hair cycle
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042742	defense response to bacterium
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042886	amide transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042891	antibiotic transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043031	negative regulation of macrophage activation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043088	regulation of GTPase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043288	apocarotenoid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043297	apical junction assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043379	memory T cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043380	regulation of memory T cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043449	cellular alkene metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043450	alkene biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043507	positive regulation of JUN kinase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043583	ear development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043588	skin development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043616	keratinocyte proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0044255	cellular lipid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0044331	cell-cell adhesion mediated by cadherin
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0044597	daunorubicin metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0044598	doxorubicin metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045022	early endosome to late endosome transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045103	intermediate filament-based process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045104	intermediate filament cytoskeleton organization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045109	intermediate filament organization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045110	intermediate filament bundle assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045165	cell fate commitment
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045168	cell-cell signaling involved in cell fate commitment
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045216	cell-cell junction organization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045217	cell-cell junction maintenance
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045580	regulation of T cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045581	negative regulation of T cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045604	regulation of epidermal cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045616	regulation of keratinocyte differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045619	regulation of lymphocyte differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045620	negative regulation of lymphocyte differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045682	regulation of epidermis development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045684	positive regulation of epidermis development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045780	positive regulation of bone resorption
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045838	positive regulation of membrane potential
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045860	positive regulation of protein kinase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045995	regulation of embryonic development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0046328	regulation of JNK cascade
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0046330	positive regulation of JNK cascade
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0046415	urate metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0046456	icosanoid biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0046457	prostanoid biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0046578	regulation of Ras protein signal transduction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0046717	acid secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0046847	filopodium assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0046852	positive regulation of bone remodeling
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0046903	secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048013	ephrin receptor signaling pathway
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048041	focal adhesion assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048247	lymphocyte chemotaxis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048469	cell maturation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048513	animal organ development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048514	blood vessel morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048569	post-embryonic animal organ development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048599	oocyte development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048646	anatomical structure formation involved in morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048729	tissue morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048731	system development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048732	gland development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048733	sebaceous gland development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048820	hair follicle maturation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048839	inner ear development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048856	anatomical structure development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048869	cellular developmental process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048870	cell motility
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0048878	chemical homeostasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050482	arachidonic acid secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050663	cytokine secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050707	regulation of cytokine secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050708	regulation of protein secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050714	positive regulation of protein secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050715	positive regulation of cytokine secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050727	regulation of inflammatory response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050730	regulation of peptidyl-tyrosine phosphorylation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050790	regulation of catalytic activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050793	regulation of developmental process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050818	regulation of coagulation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050819	negative regulation of coagulation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050820	positive regulation of coagulation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050891	multicellular organismal water homeostasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050896	response to stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050900	leukocyte migration
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050954	sensory perception of mechanical stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0050957	equilibrioception
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051046	regulation of secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051050	positive regulation of transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051056	regulation of small GTPase mediated signal transduction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051145	smooth muscle cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051150	regulation of smooth muscle cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051179	localization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051180	vitamin transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051222	positive regulation of protein transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051223	regulation of protein transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051239	regulation of multicellular organismal process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051240	positive regulation of multicellular organismal process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051270	regulation of cellular component movement
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051336	regulation of hydrolase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051347	positive regulation of transferase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051493	regulation of cytoskeleton organization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051552	flavone metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051674	localization of cell
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051704	multi-organism process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051707	response to other organism
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051797	regulation of hair follicle development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051798	positive regulation of hair follicle development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0051890	regulation of cardioblast differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001819	positive regulation of cytokine production
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001890	placenta development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001892	embryonic placenta development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001942	hair follicle development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001944	vasculature development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001977	renal system process involved in regulation of blood volume
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001990	regulation of systemic arterial blood pressure by hormone
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002009	morphogenesis of an epithelium
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002065	columnar/cuboidal epithelial cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002066	columnar/cuboidal epithelial cell development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002067	glandular epithelial cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002138	retinoic acid biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002251	organ or tissue specific immune response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0052547	regulation of peptidase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0052548	regulation of endopeptidase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0052695	cellular glucuronidation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060009	Sertoli cell development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060033	anatomical structure regression
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060113	inner ear receptor cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060117	auditory receptor cell development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060120	inner ear receptor cell fate commitment
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060137	maternal process involved in parturition
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060193	positive regulation of lipase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060326	cell chemotaxis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060428	lung epithelium development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060429	epithelium development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060433	bronchus development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060439	trachea morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060441	epithelial tube branching involved in lung morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060445	branching involved in salivary gland morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060575	intestinal epithelial cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060601	lateral sprouting from an epithelium
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060605	tube lumen cavitation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060662	salivary gland cavitation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060674	placenta blood vessel development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060684	epithelial-mesenchymal cell signaling
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060693	regulation of branching involved in salivary gland morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060711	labyrinthine layer development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060716	labyrinthine layer blood vessel development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060761	negative regulation of response to cytokine stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060856	establishment of blood-brain barrier
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0060993	kidney morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061028	establishment of endothelial barrier
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061041	regulation of wound healing
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061097	regulation of protein tyrosine kinase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061098	positive regulation of protein tyrosine kinase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061245	establishment or maintenance of bipolar cell polarity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061298	retina vasculature development in camera-type eye
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061299	retina vasculature morphogenesis in camera-type eye
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061307	cardiac neural crest cell differentiation involved in heart development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061308	cardiac neural crest cell development involved in heart development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061309	cardiac neural crest cell development involved in outflow tract morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061311	cell surface receptor signaling pathway involved in heart development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061323	cell proliferation involved in heart morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061337	cardiac conduction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061437	renal system vasculature development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061438	renal system vasculature morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061439	kidney vasculature morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0061440	kidney vasculature development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0065008	regulation of biological quality
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0065009	regulation of molecular function
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070293	renal absorption
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070304	positive regulation of stress-activated protein kinase signaling cascade
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070307	lens fiber cell development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070371	ERK1 and ERK2 cascade
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070372	regulation of ERK1 and ERK2 cascade
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070374	positive regulation of ERK1 and ERK2 cascade
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070830	bicellular tight junction assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070887	cellular response to chemical stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0071395	cellular response to jasmonic acid stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0071466	cellular response to xenobiotic stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0071695	anatomical structure maturation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0071715	icosanoid transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072012	glomerulus vasculature development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072044	collecting duct development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072049	comma-shaped body morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072050	S-shaped body morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072070	loop of Henle development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072102	glomerulus morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072103	glomerulus vasculature morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072104	glomerular capillary formation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072109	glomerular mesangium development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072110	glomerular mesangial cell proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072170	metanephric tubule development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072173	metanephric tubule morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072191	ureter smooth muscle development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072193	ureter smooth muscle cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072205	metanephric collecting duct development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072207	metanephric epithelium development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072210	metanephric nephron development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072223	metanephric glomerular mesangium development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072224	metanephric glomerulus development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072234	metanephric nephron tubule development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072239	metanephric glomerulus vasculature development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072243	metanephric nephron epithelium development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072273	metanephric nephron morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072282	metanephric nephron tubule morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072358	cardiovascular system development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072359	circulatory system development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072497	mesenchymal stem cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072593	reactive oxygen species metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072657	protein localization to membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0072677	eosinophil migration
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0080134	regulation of response to stress
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0086001	cardiac muscle cell action potential
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0086002	cardiac muscle cell action potential involved in contraction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0086004	regulation of cardiac muscle cell contraction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0086005	ventricular cardiac muscle cell action potential
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0086065	cell communication involved in cardiac conduction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0086069	bundle of His cell to Purkinje myocyte communication
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0086091	regulation of heart rate by cardiac conduction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0090022	regulation of neutrophil chemotaxis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0090130	tissue migration
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0090132	epithelium migration
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0090237	regulation of arachidonic acid secretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0090279	regulation of calcium ion import
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0090280	positive regulation of calcium ion import
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0090288	negative regulation of cellular response to growth factor stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0090381	regulation of heart induction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0097150	neuronal stem cell population maintenance
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:1900046	regulation of hemostasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:1900047	negative regulation of hemostasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:1900673	olefin metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:1900674	olefin biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:1900746	regulation of vascular endothelial growth factor signaling pathway
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:1900747	negative regulation of vascular endothelial growth factor signaling pathway
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:1901222	regulation of NIK/NF-kappaB signaling
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000008	regulation of protein localization to cell surface
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000026	regulation of multicellular organismal development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000027	regulation of animal organ morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000047	regulation of cell-cell adhesion mediated by cadherin
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000049	positive regulation of cell-cell adhesion mediated by cadherin
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000136	regulation of cell proliferation involved in heart morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000145	regulation of cell motility
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000191	regulation of fatty acid transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000193	positive regulation of fatty acid transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000257	regulation of protein activation cascade
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000377	regulation of reactive oxygen species metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000379	positive regulation of reactive oxygen species metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000380	regulation of mesoderm development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000463	positive regulation of excitatory postsynaptic potential
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002385	mucosal immune response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002455	humoral immune response mediated by circulating immunoglobulin
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002523	leukocyte migration involved in inflammatory response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002524	hypersensitivity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002526	acute inflammatory response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002544	chronic inflammatory response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002673	regulation of acute inflammatory response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002704	negative regulation of leukocyte mediated immunity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002707	negative regulation of lymphocyte mediated immunity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002883	regulation of hypersensitivity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002920	regulation of humoral immune response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000738	positive regulation of stem cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000739	regulation of mesenchymal stem cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:2000826	regulation of heart morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002921	negative regulation of humoral immune response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0002934	desmosome organization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0003014	renal system process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0003071	renal system process involved in regulation of systemic arterial blood pressure
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0003091	renal water homeostasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0003129	heart induction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0003338	metanephros morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006063	uronic acid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006081	cellular aldehyde metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006123	mitochondrial electron transport, cytochrome c to oxygen
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006493	protein O-linked glycosylation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006629	lipid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006631	fatty acid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006633	fatty acid biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006636	unsaturated fatty acid biosynthetic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006658	phosphatidylserine metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006690	icosanoid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006691	leukotriene metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006692	prostanoid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006693	prostaglandin metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006714	sesquiterpenoid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006720	isoprenoid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006721	terpenoid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006766	vitamin metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006775	fat-soluble vitamin metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006776	vitamin A metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006805	xenobiotic metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006833	water transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006855	drug transmembrane transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006857	oligopeptide transport
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006928	movement of cell or subcellular component
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006935	chemotaxis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006952	defense response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006953	acute-phase response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006954	inflammatory response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006955	immune response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0006959	humoral immune response
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007010	cytoskeleton organization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007015	actin filament organization
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007016	cytoskeletal anchoring at plasma membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007043	cell-cell junction assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007044	cell-substrate junction assembly
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007155	cell adhesion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007160	cell-matrix adhesion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007163	establishment or maintenance of cell polarity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007250	activation of NF-kappaB-inducing kinase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007254	JNK cascade
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007266	Rho protein signal transduction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007275	multicellular organism development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007398	ectoderm development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007431	salivary gland development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007435	salivary gland morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007500	mesodermal cell fate determination
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007584	response to nutrient
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007586	digestion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007588	excretion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0007605	sensory perception of sound
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0008218	bioluminescence
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0008283	cell proliferation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0008544	epidermis development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009235	cobalamin metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009410	response to xenobiotic stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009415	response to water
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009605	response to external stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009607	response to biotic stimulus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009611	response to wounding
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009617	response to bacterium
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009635	response to herbicide
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009653	anatomical structure morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009698	phenylpropanoid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009753	response to jasmonic acid
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009804	coumarin metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009812	flavonoid metabolic process
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009887	animal organ morphogenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009888	tissue development
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009912	auditory receptor cell fate commitment
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009913	epidermal cell differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009994	oocyte differentiation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010224	response to UV-B
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010288	response to lead ion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010470	regulation of gastrulation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0010518	positive regulation of phospholipase activity
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001527	microfibril
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001533	cornified envelope
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0001726	ruffle
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005576	extracellular region
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005604	basement membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005605	basement membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005610	laminin-5 complex
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005615	extracellular space
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005640	nuclear outer membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005641	nuclear envelope lumen
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005796	Golgi lumen
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005856	cytoskeleton
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005861	troponin complex
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005865	striated muscle thin filament
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005882	intermediate filament
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005884	actin filament
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005886	plasma membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005887	integral component of plasma membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005902	microvillus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005911	cell-cell junction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005912	adherens junction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005913	cell-cell adherens junction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005915	zonula adherens
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005921	gap junction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005922	connexin complex
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0005923	bicellular tight junction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0008305	integrin complex
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009925	basal plasma membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0009986	cell surface
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0014731	spectrin-associated cytoskeleton
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0015629	actin cytoskeleton
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016020	membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016021	integral component of membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016023	cytoplasmic vesicle
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016323	basolateral plasma membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016324	apical plasma membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016327	apicolateral plasma membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0016328	lateral plasma membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030054	cell junction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030056	hemidesmosome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030057	desmosome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030131	clathrin adaptor complex
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030667	secretory granule membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0030897	HOPS complex
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031012	extracellular matrix
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031224	intrinsic component of membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031225	anchored component of membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031226	intrinsic component of plasma membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031252	cell leading edge
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031526	brush border membrane
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031982	vesicle
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0031988	vesicle
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042581	specific granule
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0042599	lamellar body
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043218	compact myelin
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043256	laminin complex
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0043296	apical junction complex
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0044421	extracellular region part
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0044425	membrane part
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0044430	cytoskeletal part
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0044431	Golgi apparatus part
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0044459	plasma membrane part
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045095	keratin filament
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045111	intermediate filament cytoskeleton
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045177	apical part of cell
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0045178	basal part of cell
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070160	tight junction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070161	anchoring junction
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0070695	FHF complex
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0071944	cell periphery
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Gene Ontology	GO:0097209	epidermal lamellar body
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SANA_TNF_SIGNALING_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LEE_LIVER_CANCER_E2F1_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	OSAWA_TNF_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ABBUD_LIF_SIGNALING_2_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZHAN_MULTIPLE_MYELOMA_SPIKED
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LEI_MYB_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HALMOS_CEBPA_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LENAOUR_DENDRITIC_CELL_MATURATION_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MOREAUX_MULTIPLE_MYELOMA_BY_TACI_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CROMER_METASTASIS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TAVOR_CEBPA_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	VERHAAK_AML_WITH_NPM1_MUTATED_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MOREAUX_B_LYMPHOCYTE_MATURATION_BY_TACI_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SESTO_RESPONSE_TO_UV_C8
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIANG_SILENCED_BY_METHYLATION_2
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SCHLINGEMANN_SKIN_CARCINOGENESIS_TPA_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WHITESIDE_CISPLATIN_RESISTANCE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	IVANOVA_HEMATOPOIESIS_STEM_CELL_LONG_TERM
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CHANG_IMMORTALIZED_BY_HPV31_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CUI_TCF21_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KANG_FLUOROURACIL_RESISTANCE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WESTON_VEGFA_TARGETS_12HR
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MURAKAMI_UV_RESPONSE_6HR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MEDINA_SMARCA4_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WESTON_VEGFA_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DAZARD_RESPONSE_TO_UV_NHEK_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DAZARD_UV_RESPONSE_CLUSTER_G4
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIANG_SILENCED_BY_METHYLATION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BROWNE_HCMV_INFECTION_6HR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SATO_SILENCED_BY_METHYLATION_IN_PANCREATIC_CANCER_1
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DAZARD_UV_RESPONSE_CLUSTER_G2
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WESTON_VEGFA_TARGETS_3HR
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BILD_HRAS_ONCOGENIC_SIGNATURE
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DURCHDEWALD_SKIN_CARCINOGENESIS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	YANG_MUC2_TARGETS_DUODENUM_6MO_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CREIGHTON_ENDOCRINE_THERAPY_RESISTANCE_3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CREIGHTON_ENDOCRINE_THERAPY_RESISTANCE_5
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MILICIC_FAMILIAL_ADENOMATOUS_POLYPOSIS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LEIN_CHOROID_PLEXUS_MARKERS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GAVIN_FOXP3_TARGETS_CLUSTER_P2
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SANSOM_APC_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RIGGINS_TAMOXIFEN_RESISTANCE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	JI_CARCINOGENESIS_BY_KRAS_AND_STK11_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	STEARMAN_LUNG_CANCER_EARLY_VS_LATE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HELLER_SILENCED_BY_METHYLATION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HELLER_HDAC_TARGETS_SILENCED_BY_METHYLATION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MARTINEZ_TP53_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MARTINEZ_RB1_AND_TP53_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MASSARWEH_TAMOXIFEN_RESISTANCE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SARRIO_EPITHELIAL_MESENCHYMAL_TRANSITION_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	IWANAGA_CARCINOGENESIS_BY_KRAS_PTEN_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	OSADA_ASCL1_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	YAMASHITA_METHYLATED_IN_PROSTATE_CANCER
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ENGELMANN_CANCER_PROGENITORS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ENGELMANN_CANCER_PROGENITORS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HUANG_FOXA2_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MASRI_RESISTANCE_TO_TAMOXIFEN_AND_AROMATASE_INHIBITORS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TING_SILENCED_BY_DICER
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ACEVEDO_LIVER_TUMOR_VS_NORMAL_ADJACENT_TISSUE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SAGIV_CD24_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_RELAPSE_IN_BRAIN_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_RELAPSE_IN_BRAIN_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_RELAPSE_IN_BONE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_RELAPSE_IN_BONE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_RELAPSE_IN_LUNG_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_RELAPSE_IN_LIVER_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_RELAPSE_IN_PLEURA_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_LUMINAL_B_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_LUMINAL_B_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_ERBB2_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_NORMAL_LIKE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_BASAL_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMID_BREAST_CANCER_BASAL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZHANG_BREAST_CANCER_PROGENITORS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MISHRA_CARCINOMA_ASSOCIATED_FIBROBLAST_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GAURNIER_PSMD4_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	AUJLA_IL22_AND_IL17A_SIGNALING
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZHENG_IL22_SIGNALING_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BOQUEST_STEM_CELL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LABBE_TGFB1_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LABBE_TARGETS_OF_TGFB1_AND_WNT3A_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CLIMENT_BREAST_CANCER_COPY_NUMBER_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RAY_TUMORIGENESIS_BY_ERBB2_CDC25A_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BRUECKNER_TARGETS_OF_MIRLET7A3_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MATTHEWS_SKIN_CARCINOGENESIS_VIA_JUN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HUPER_BREAST_BASAL_VS_LUMINAL_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HUPER_BREAST_BASAL_VS_LUMINAL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CROMER_TUMORIGENESIS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZHOU_PANCREATIC_EXOCRINE_PROGENITOR
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKI_COEXPRESSED_WITH_CYP19A1
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	VART_KSHV_INFECTION_ANGIOGENIC_MARKERS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	VART_KSHV_INFECTION_ANGIOGENIC_MARKERS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BOYLAN_MULTIPLE_MYELOMA_C_D_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GU_PDEF_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GU_PDEF_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WAGNER_APO2_SENSITIVITY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SEKI_INFLAMMATORY_RESPONSE_LPS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	YOSHIMURA_MAPK8_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RUTELLA_RESPONSE_TO_HGF_VS_CSF2RB_AND_IL4_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	VANTVEER_BREAST_CANCER_ESR1_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	VANTVEER_BREAST_CANCER_ESR1_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SWEET_LUNG_CANCER_KRAS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HINATA_NFKB_TARGETS_KERATINOCYTE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HINATA_NFKB_TARGETS_KERATINOCYTE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HOFFMANN_LARGE_TO_SMALL_PRE_BII_LYMPHOCYTE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HOFMANN_MYELODYSPLASTIC_SYNDROM_HIGH_RISK_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HAN_SATB1_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKKELSEN_DEDIFFERENTIATED_STATE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MEISSNER_NPC_HCP_WITH_H3_UNMETHYLATED
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MEISSNER_BRAIN_HCP_WITH_H3K27ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MEISSNER_BRAIN_HCP_WITH_H3K4ME3_AND_H3K27ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIU_VAV3_PROSTATE_CARCINOGENESIS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	POOLA_INVASIVE_BREAST_CANCER_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BOYAULT_LIVER_CANCER_SUBCLASS_G1_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BOYAULT_LIVER_CANCER_SUBCLASS_G6_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BOYAULT_LIVER_CANCER_SUBCLASS_G12_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CHIANG_LIVER_CANCER_SUBCLASS_CTNNB1_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CHIANG_LIVER_CANCER_SUBCLASS_POLYSOMY7_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	COULOUARN_TEMPORAL_TGFB1_SIGNATURE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HOSHIDA_LIVER_CANCER_LATE_RECURRENCE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HOSHIDA_LIVER_CANCER_SURVIVAL_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	YAMASHITA_LIVER_CANCER_STEM_CELL_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LEE_LIVER_CANCER_HEPATOBLAST
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MEISSNER_NPC_HCP_WITH_H3K4ME2_AND_H3K27ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MEISSNER_NPC_HCP_WITH_H3K4ME2
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKKELSEN_MCV6_LCP_WITH_H3K4ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKKELSEN_MEF_ICP_WITH_H3K27ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKKELSEN_MEF_LCP_WITH_H3K4ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKKELSEN_IPS_LCP_WITH_H3K4ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SCHOEN_NFKB_SIGNALING
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LI_PROSTATE_CANCER_EPIGENETIC
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FONTAINE_PAPILLARY_THYROID_CARCINOMA_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LOPEZ_EPITHELIOID_MESOTHELIOMA
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CAIRO_HEPATOBLASTOMA_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZHAN_MULTIPLE_MYELOMA_CD1_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TIAN_TNF_SIGNALING_VIA_NFKB
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKKELSEN_ES_ICP_WITH_H3K4ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKKELSEN_ES_ICP_WITH_H3K4ME3_AND_H3K27ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKKELSEN_ES_LCP_WITH_H3K4ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKKELSEN_NPC_HCP_WITH_H3K27ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MIKKELSEN_MEF_HCP_WITH_H3K27ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	YAO_TEMPORAL_RESPONSE_TO_PROGESTERONE_CLUSTER_6
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	YAO_TEMPORAL_RESPONSE_TO_PROGESTERONE_CLUSTER_9
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MURAKAMI_UV_RESPONSE_1HR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZEMBUTSU_SENSITIVITY_TO_CISPLATIN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZEMBUTSU_SENSITIVITY_TO_CYCLOPHOSPHAMIDE
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZEMBUTSU_SENSITIVITY_TO_VINCRISTINE
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DAZARD_UV_RESPONSE_CLUSTER_G24
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DAZARD_UV_RESPONSE_CLUSTER_G28
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RAGHAVACHARI_PLATELET_SPECIFIC_GENES
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WANG_METASTASIS_OF_BREAST_CANCER_ESR1_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WANG_METASTASIS_OF_BREAST_CANCER
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MARTENS_TRETINOIN_RESPONSE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KIM_BIPOLAR_DISORDER_OLIGODENDROCYTE_DENSITY_CORR_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	VERHAAK_GLIOBLASTOMA_MESENCHYMAL
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DUTERTRE_ESTRADIOL_RESPONSE_6HR_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DUTERTRE_ESTRADIOL_RESPONSE_24HR_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	OHGUCHI_LIVER_HNF4A_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FUKUSHIMA_TNFSF11_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BHAT_ESR1_TARGETS_NOT_VIA_AKT1_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BHAT_ESR1_TARGETS_NOT_VIA_AKT1_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BHAT_ESR1_TARGETS_VIA_AKT1_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BHAT_ESR1_TARGETS_VIA_AKT1_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	JOHNSTONE_PARVB_TARGETS_3_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ISSAEVA_MLL2_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PASINI_SUZ12_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	VANDESLUIS_COMMD1_TARGETS_GROUP_3_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	AZARE_NEOPLASTIC_TRANSFORMATION_BY_STAT3_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	AZARE_NEOPLASTIC_TRANSFORMATION_BY_STAT3_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DELPUECH_FOXO3_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LEE_BMP2_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FEVR_CTNNB1_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TORCHIA_TARGETS_OF_EWSR1_FLI1_FUSION_TOP20_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TORCHIA_TARGETS_OF_EWSR1_FLI1_FUSION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WINZEN_DEGRADED_VIA_KHSRP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KOINUMA_TARGETS_OF_SMAD2_OR_SMAD3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KATSANOU_ELAVL1_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SERVITJA_ISLET_HNF1A_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KOHOUTEK_CCNT1_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PEDERSEN_METASTASIS_BY_ERBB2_ISOFORM_1
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PEDERSEN_METASTASIS_BY_ERBB2_ISOFORM_4
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PEDERSEN_METASTASIS_BY_ERBB2_ISOFORM_6
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PEDERSEN_METASTASIS_BY_ERBB2_ISOFORM_7
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PEDERSEN_TARGETS_OF_611CTF_ISOFORM_OF_ERBB2
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PLASARI_TGFB1_TARGETS_10HR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PLASARI_TGFB1_SIGNALING_VIA_NFIC_10HR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WANG_MLL_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MALIK_REPRESSED_BY_ESTROGEN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FORTSCHEGGER_PHF8_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PHONG_TNF_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PHONG_TNF_RESPONSE_NOT_VIA_P38
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FOSTER_KDM1A_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BOSCO_EPITHELIAL_DIFFERENTIATION_MODULE
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ALTEMEIER_RESPONSE_TO_LPS_WITH_MECHANICAL_VENTILATION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ACEVEDO_FGFR1_TARGETS_IN_PROSTATE_CANCER_MODEL_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIM_MAMMARY_STEM_CELL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIM_MAMMARY_LUMINAL_PROGENITOR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIM_MAMMARY_LUMINAL_MATURE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DURAND_STROMA_NS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZWANG_CLASS_1_TRANSIENTLY_INDUCED_BY_EGF
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZWANG_CLASS_3_TRANSIENTLY_INDUCED_BY_EGF
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZWANG_TRANSIENTLY_UP_BY_2ND_EGF_PULSE_ONLY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZWANG_TRANSIENTLY_UP_BY_1ST_EGF_PULSE_ONLY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZWANG_EGF_INTERVAL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZWANG_EGF_PERSISTENTLY_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HECKER_IFNB1_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	NABA_ECM_REGULATORS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	NABA_ECM_AFFILIATED
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	NABA_SECRETED_FACTORS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	NABA_MATRISOME_ASSOCIATED
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	NABA_MATRISOME
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ANDERSEN_CHOLANGIOCARCINOMA_CLASS2
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	OISHI_CHOLANGIOMA_STEM_CELL_LIKE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HOLLERN_EMT_BREAST_TUMOR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HOLLERN_EMT_BREAST_TUMOR_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HOLLERN_SQUAMOUS_BREAST_TUMOR
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HOLLERN_PAPILLARY_BREAST_TUMOR
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HOLLERN_SOLID_NODULAR_BREAST_TUMOR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_PENTOSE_AND_GLUCURONATE_INTERCONVERSIONS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_ASCORBATE_AND_ALDARATE_METABOLISM
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_STEROID_HORMONE_BIOSYNTHESIS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_HISTIDINE_METABOLISM
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_O_GLYCAN_BIOSYNTHESIS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_GLYCOSAMINOGLYCAN_BIOSYNTHESIS_KERATAN_SULFATE
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_ARACHIDONIC_ACID_METABOLISM
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_LINOLEIC_ACID_METABOLISM
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_GLYCOSPHINGOLIPID_BIOSYNTHESIS_LACTO_AND_NEOLACTO_SERIES
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_RETINOL_METABOLISM
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_DRUG_METABOLISM_CYTOCHROME_P450
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_DRUG_METABOLISM_OTHER_ENZYMES
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_CELL_ADHESION_MOLECULES_CAMS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_TIGHT_JUNCTION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_COMPLEMENT_AND_COAGULATION_CASCADES
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_LEUKOCYTE_TRANSENDOTHELIAL_MIGRATION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_MATURITY_ONSET_DIABETES_OF_THE_YOUNG
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_PATHOGENIC_ESCHERICHIA_COLI_INFECTION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_BASAL_CELL_CARCINOMA
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KEGG_ARRHYTHMOGENIC_RIGHT_VENTRICULAR_CARDIOMYOPATHY_ARVC
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PID_INTEGRIN_CS_PATHWAY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PID_CDC42_REG_PATHWAY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PID_INTEGRIN4_PATHWAY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PID_ERBB_NETWORK_PATHWAY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PID_ECADHERIN_STABILIZATION_PATHWAY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PID_DELTA_NP63_PATHWAY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PID_A6B1_A6B4_INTEGRIN_PATHWAY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PID_TAP63_PATHWAY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_APOPTOTIC_CLEAVAGE_OF_CELLULAR_PROTEINS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_BILE_ACID_AND_BILE_SALT_METABOLISM
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_RECYCLING_OF_BILE_ACIDS_AND_SALTS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_SIGNALING_BY_RHO_GTPASES
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_CELL_CELL_COMMUNICATION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_O_LINKED_GLYCOSYLATION_OF_MUCINS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_TERMINATION_OF_O_GLYCAN_BIOSYNTHESIS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_REGULATION_OF_COMPLEMENT_CASCADE
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_ACYL_CHAIN_REMODELLING_OF_PI
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_HS_GAG_DEGRADATION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_ACYL_CHAIN_REMODELLING_OF_PC
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_ACYL_CHAIN_REMODELLING_OF_PG
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_ACYL_CHAIN_REMODELLING_OF_PE
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_ACYL_CHAIN_REMODELLING_OF_PS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_BIOLOGICAL_OXIDATIONS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_CYTOCHROME_P450_ARRANGED_BY_SUBSTRATE_TYPE
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_APOPTOTIC_CLEAVAGE_OF_CELL_ADHESION_PROTEINS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_REGULATION_OF_BETA_CELL_DEVELOPMENT
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_PHASE1_FUNCTIONALIZATION_OF_COMPOUNDS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_CHEMOKINE_RECEPTORS_BIND_CHEMOKINES
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_CELL_CELL_JUNCTION_ORGANIZATION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_TIGHT_JUNCTION_INTERACTIONS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_CELL_JUNCTION_ORGANIZATION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_AQUAPORIN_MEDIATED_TRANSPORT
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_GLUCURONIDATION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_COMPLEMENT_CASCADE
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_PHASE_II_CONJUGATION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_GAP_JUNCTION_TRAFFICKING
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	REACTOME_GAP_JUNCTION_ASSEMBLY
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WEST_ADRENOCORTICAL_TUMOR_MARKERS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PYEON_HPV_POSITIVE_TUMORS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	NAKAMURA_TUMOR_ZONE_PERIPHERAL_VS_CENTRAL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIU_PROSTATE_CANCER_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SCHUETZ_BREAST_CANCER_DUCTAL_INVASIVE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FRASOR_TAMOXIFEN_RESPONSE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KIM_RESPONSE_TO_TSA_AND_DECITABINE_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SENGUPTA_NASOPHARYNGEAL_CARCINOMA_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WATANABE_COLON_CANCER_MSI_VS_MSS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CHEMNITZ_RESPONSE_TO_PROSTAGLANDIN_E2_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	IGARASHI_ATF4_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SENGUPTA_NASOPHARYNGEAL_CARCINOMA_WITH_LMP1_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TURASHVILI_BREAST_DUCTAL_CARCINOMA_VS_DUCTAL_NORMAL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TURASHVILI_BREAST_LOBULAR_CARCINOMA_VS_DUCTAL_NORMAL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TURASHVILI_BREAST_LOBULAR_CARCINOMA_VS_LOBULAR_NORMAL_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIU_CMYB_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIU_VMYB_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CHARAFE_BREAST_CANCER_LUMINAL_VS_BASAL_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CHARAFE_BREAST_CANCER_LUMINAL_VS_BASAL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CHARAFE_BREAST_CANCER_LUMINAL_VS_MESENCHYMAL_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CHARAFE_BREAST_CANCER_BASAL_VS_MESENCHYMAL_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DOANE_BREAST_CANCER_CLASSES_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DOANE_RESPONSE_TO_ANDROGEN_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DOANE_RESPONSE_TO_ANDROGEN_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DOANE_BREAST_CANCER_ESR1_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DOANE_BREAST_CANCER_ESR1_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ROY_WOUND_BLOOD_VESSEL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HORIUCHI_WTAP_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RODRIGUES_DCC_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RODRIGUES_NTN1_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	VECCHI_GASTRIC_CANCER_ADVANCED_VS_EARLY_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	VECCHI_GASTRIC_CANCER_EARLY_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SMIRNOV_CIRCULATING_ENDOTHELIOCYTES_IN_CANCER_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	JAEGER_METASTASIS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TAKEDA_TARGETS_OF_NUP98_HOXA9_FUSION_10D_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TAKEDA_TARGETS_OF_NUP98_HOXA9_FUSION_16D_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	AKL_HTLV1_INFECTION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SENESE_HDAC1_AND_HDAC2_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SENESE_HDAC2_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZHOU_INFLAMMATORY_RESPONSE_LPS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SABATES_COLORECTAL_ADENOMA_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MOROSETTI_FACIOSCAPULOHUMERAL_MUSCULAR_DISTROPHY_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GRAHAM_CML_QUIESCENT_VS_CML_DIVIDING_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GRAHAM_CML_DIVIDING_VS_NORMAL_QUIESCENT_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WAMUNYOKOLI_OVARIAN_CANCER_LMP_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WAMUNYOKOLI_OVARIAN_CANCER_GRADES_1_2_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DODD_NASOPHARYNGEAL_CARCINOMA_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GOZGIT_ESR1_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GOZGIT_ESR1_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PROVENZANI_METASTASIS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIU_CDX2_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIU_CDX2_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	COLDREN_GEFITINIB_RESISTANCE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ENK_UV_RESPONSE_EPIDERMIS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ENK_UV_RESPONSE_EPIDERMIS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LANDIS_BREAST_CANCER_PROGRESSION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	DELYS_THYROID_CANCER_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LINDGREN_BLADDER_CANCER_CLUSTER_2A_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CREIGHTON_AKT1_SIGNALING_VIA_MTOR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GRAESSMANN_APOPTOSIS_BY_SERUM_DEPRIVATION_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LANDIS_ERBB2_BREAST_PRENEOPLASTIC_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GRAESSMANN_APOPTOSIS_BY_DOXORUBICIN_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GRAESSMANN_RESPONSE_TO_MC_AND_DOXORUBICIN_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GAUSSMANN_MLL_AF4_FUSION_TARGETS_G_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LANDIS_ERBB2_BREAST_TUMORS_324_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WANG_BARRETTS_ESOPHAGUS_AND_ESOPHAGUS_CANCER_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WANG_BARRETTS_ESOPHAGUS_AND_ESOPHAGUS_CANCER_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MISSIAGLIA_REGULATED_BY_METHYLATION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WANG_BARRETTS_ESOPHAGUS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WANG_BARRETTS_ESOPHAGUS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MCBRYAN_PUBERTAL_BREAST_3_4WK_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MCBRYAN_PUBERTAL_BREAST_4_5WK_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MCBRYAN_PUBERTAL_BREAST_5_6WK_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HUMMERICH_BENIGN_SKIN_TUMOR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MCBRYAN_PUBERTAL_TGFB1_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HUMMERICH_MALIGNANT_SKIN_TUMOR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LUCAS_HNF4A_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MCBRYAN_TERMINAL_END_BUD_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SAENZ_DETOX_PATHWAY_AND_CARCINOGENESIS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BEGUM_TARGETS_OF_PAX3_FOXO1_FUSION_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	OLSSON_E2F3_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WONG_ENDMETRIUM_CANCER_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TAKAYAMA_BOUND_BY_AR
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MUELLER_METHYLATED_IN_GLIOBLASTOMA
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	EBAUER_TARGETS_OF_PAX3_FOXO1_FUSION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PEREZ_TP53_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PEREZ_TP63_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HUMMERICH_SKIN_CANCER_PROGRESSION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RASHI_RESPONSE_TO_IONIZING_RADIATION_2
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RASHI_RESPONSE_TO_IONIZING_RADIATION_6
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	AIGNER_ZEB1_TARGETS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LI_AMPLIFIED_IN_LUNG_CANCER
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FARMER_BREAST_CANCER_APOCRINE_VS_LUMINAL
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FARMER_BREAST_CANCER_APOCRINE_VS_BASAL
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FARMER_BREAST_CANCER_BASAL_VS_LULMINAL
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FARMER_BREAST_CANCER_CLUSTER_8
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FARMER_BREAST_CANCER_CLUSTER_7
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	PATTERSON_DOCETAXEL_RESISTANCE
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SNIJDERS_AMPLIFIED_IN_HEAD_AND_NECK_TUMORS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SEITZ_NEOPLASTIC_TRANSFORMATION_BY_8P_DELETION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HEIDENBLAD_AMPLICON_12P11_12_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TSUNODA_CISPLATIN_RESISTANCE_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BORLAK_LIVER_CANCER_EGF_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIEN_BREAST_CARCINOMA_METAPLASTIC_VS_DUCTAL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MOHANKUMAR_HOXA1_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MURATA_VIRULENCE_OF_H_PILORI
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WANG_HCP_PROSTATE_CANCER
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	JAZAG_TGFB1_SIGNALING_VIA_SMAD4_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SIMBULAN_UV_RESPONSE_NORMAL_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SIMBULAN_UV_RESPONSE_IMMORTALIZED_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	INAMURA_LUNG_CANCER_SCC_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KIM_MYC_AMPLIFICATION_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	YANG_BREAST_CANCER_ESR1_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	YANG_BREAST_CANCER_ESR1_BULK_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SHANK_TAL1_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	HASINA_NOL7_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FURUKAWA_DUSP6_TARGETS_PCI35_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SHETH_LIVER_CANCER_VS_TXNIP_LOSS_PAM3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BALLIF_DEVELOPMENTAL_DISABILITY_P16_P12_DELETION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GALIE_TUMOR_STEMNESS_GENES
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WILLIAMS_ESR1_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GROSS_HIF1A_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	NUYTTEN_NIPP1_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	INGRAM_SHH_TARGETS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MANTOVANI_NFKB_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	MANTOVANI_VIRAL_GPCR_SIGNALING_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GOUYER_TUMOR_INVASIVENESS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RICKMAN_TUMOR_DIFFERENTIATED_WELL_VS_POORLY_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RICKMAN_TUMOR_DIFFERENTIATED_WELL_VS_MODERATELY_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RICKMAN_METASTASIS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SCHAEFFER_PROSTATE_DEVELOPMENT_48HR_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	SCHAEFFER_PROSTATE_DEVELOPMENT_AND_CANCER_BOX5_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	KOYAMA_SEMA3B_TARGETS_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RICKMAN_HEAD_AND_NECK_CANCER_C
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RICKMAN_HEAD_AND_NECK_CANCER_D
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	RICKMAN_HEAD_AND_NECK_CANCER_E
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	WU_CELL_MIGRATION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TAGHAVI_NEOPLASTIC_TRANSFORMATION
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	GOTZMANN_EPITHELIAL_TO_MESENCHYMAL_TRANSITION_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	BENPORATH_ES_WITH_H3K27ME3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	AMIT_EGF_RESPONSE_60_MCF10A
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	AMIT_SERUM_RESPONSE_120_MCF10A
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	AMIT_SERUM_RESPONSE_240_MCF10A
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	AMIT_SERUM_RESPONSE_480_MCF10A
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LIN_SILENCED_BY_TUMOR_MICROENVIRONMENT
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZHANG_RESPONSE_TO_IKK_INHIBITOR_AND_TNF_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	NIKOLSKY_BREAST_CANCER_1Q32_AMPLICON
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	NIKOLSKY_BREAST_CANCER_17P11_AMPLICON
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	JI_METASTASIS_REPRESSED_BY_STK11
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ONDER_CDH1_TARGETS_2_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ONDER_CDH1_TARGETS_1_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ONDER_CDH1_TARGETS_3_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ONDER_CDH1_SIGNALING_VIA_CTNNB1
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LANDEMAINE_LUNG_METASTASIS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CERVERA_SDHB_TARGETS_1_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	ZUCCHI_METASTASIS_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	CHESLER_BRAIN_D6MIT150_QTL_CIS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FERRANDO_TAL1_NEIGHBORS
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	JECHLINGER_EPITHELIAL_TO_MESENCHYMAL_TRANSITION_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	TARTE_PLASMA_CELL_VS_PLASMABLAST_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	FRASOR_RESPONSE_TO_ESTRADIOL_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	JECHLINGER_EPITHELIAL_TO_MESENCHYMAL_TRANSITION_DN
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	MSigDB	LEE_LIVER_CANCER_MYC_E2F1_UP
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Conjunctivochalasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hypotrichosis 6
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hypotrichosis 8
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Amelogenesis imperfecta type 3A
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pterygium
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Biliary tract cancer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Choledochal cyst
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hypercementosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Trichorhinophalangeal syndrome type I
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Brachydactyly type E2
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Taeniasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Fanconi-like syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Reticular dysgenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Duodenum cancer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Cocoon syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Bronchiolitis obliterans
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	pseudo-TORCH syndrome 1
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Miliaria rubra
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hypotrichosis 7
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Growth hormone secreting pituitary adenoma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Cancer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Gastrointestinal system disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Lung disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Diabetes mellitus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Breast disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Skin disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Kidney disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Autoimmune hypersensitivity disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Prostate disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Allergic hypersensitivity disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Ovarian disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Influenza
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Asthma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Endometriosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Bladder disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Myiasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Diarrhea
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Colitis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Mastitis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Bronchiectasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Atopic dermatitis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Brachyolmia
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pancreas disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Carcinoma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Palmoplantar keratosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Esophageal cancer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Colorectal cancer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Ductal carcinoma in situ
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Adenocarcinoma in situ
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Vascular disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Dihydropyrimidine dehydrogenase deficiency
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Acne
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Cystic fibrosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pancreatitis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Common cold
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Cholestasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Inflammatory bowel disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pendred Syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Biliary dyskinesia
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Bone disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Usher syndrome type 2
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Nonsyndromic deafness
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Stargardt disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Neural tube defect
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Dry eye syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Psoriasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Thrombosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Adenoma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Epidermolysis bullosa
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Monilethrix
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pancreatic cancer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pancreatic agenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hypereosinophilic syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Exanthem
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Cellulitis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Gonorrhea
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Respiratory failure
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Gastritis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Psoriatic arthritis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Lichen planus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Alopecia
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Otitis media
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Stevens-Johnson syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Papilloma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Keratoconjunctivitis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Erythema multiforme
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pericardial effusion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Thrombophilia
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hypersensitivity reaction type III disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Intestinal benign neoplasm
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Rosacea
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Goiter
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Keratosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Colon cancer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Scott syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hartnup disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pemphigus
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Ritters disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Impetigo
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Ectodermal dysplasia
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Dilated cardiomyopathy with woolly hair and keratoderma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Subcorneal pustular dermatosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Familial adenomatous polyposis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Corneal edema
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Rheumatoid arthritis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Arrhythmogenic right ventricular cardiomyopathy
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Brugada syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Left bundle branch hemiblock
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Catecholaminergic polymorphic ventricular tachycardia
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Right bundle branch block
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	LEOPARD syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Myocarditis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Atrial fibrillation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Restrictive cardiomyopathy
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Sick sinus syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Mitral valve prolapse
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Castleman disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Dermatitis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Ameloblastoma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pachyonychia congenita
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hydronephrosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Vulvar disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Duodenal ulcer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Systemic scleroderma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Autosomal dominant Robinow syndrome 3
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	ADULT syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Kindler syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Bullous pemphigoid
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Inflammatory bowel disease 1
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Chromosome 18q deletion syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Celiac disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Peeling skin syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Ovarian cancer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Integumentary system cancer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Ichthyosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Ectropion
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Epidermolytic hyperkeratosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Netherton syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hypohidrosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Histiocytosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Disseminated intravascular coagulation
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	MEDNIK syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Microvillus inclusion disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Urethral diverticulum
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Bacteriuria
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Ureteral benign neoplasm
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Gingivitis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hypervitaminosis D
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Metanephric adenoma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Focal dermal hypoplasia
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Von Willebrands disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hidradenitis suppurativa
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Periostitis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Lobular neoplasia
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Inflammatory bowel disease 9
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Gastric ulcer
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Feltys syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Vitreous detachment
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Epidermolysis bullosa acquisita
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Ovarian cyst
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Camurati-Engelmann disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	ankyloblepharon-ectodermal defects-cleft lip/palate syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Thiopurine S-methyltransferase deficiency
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Congenital hypotrichosis with juvenile macular dystrophy
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Oculodentodigital dysplasia
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Tooth agenesis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Hereditary mucosal leukokeratosis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Autosomal recessive nonsyndromic deafness 26
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pemphigoid gestationis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Cicatricial pemphigoid
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Caroli disease
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Van der Woude syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Popliteal pterygium syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Dental enamel hypoplasia
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Bart-Pumphrey syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	T-cell immunodeficiency, congenital alopecia, and nail dystrophy
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Mitral valve insufficiency
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Fascioliasis
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Epidermolysis bullosa simplex
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Pityriasis versicolor
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Serous cystadenocarcinoma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Malignant mesothelioma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Paraganglioma
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Alopecia areata
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Poland syndrome
+CCLE	NX_Q5TAA0	ENSG00000006555	TTC22	True	PE1	1	Disease	Gorhams disease

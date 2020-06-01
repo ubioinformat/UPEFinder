@@ -1,0 +1,4 @@
+dataset	nexprot_id	_id	gene_name	uPE1	Connections_with_PE1/uPE1	GO_connections	MSigdb_connections	Disease_connections
+TCGA	NX_Q00266	ENSG00000151224	MAT1A	False	28	62	25	10
+GTEX	NX_Q00266	ENSG00000151224	MAT1A	False	115	61	26	9
+CCLE	NX_Q00266	ENSG00000151224	MAT1A	False	2	14	7	2

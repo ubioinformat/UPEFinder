@@ -1,0 +1,311 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>UPEFinder</title>
+{% endblock %}
+
+{% block body %}
+
+<div class="row">
+    <a href='/'><button class="btn"><i class="fa fa-home"></i> Home</button></a>
+    <button class="btn"><i class="fa fa-bars"></i> Cite Us</button>
+    <div style="width: 100%; text-align: center; position: relative;"><img src="/static/img/UPEFinder_logo.jpg" alt="UPEFinder" style="width:28%" height="150" align="center"></div>
+    <div style="position: absolute; right: 0; top: 0"><img src="/static/img/proteored.png" alt="Proteored" style="width:100%" height="80"> </div>
+</div>
+
+<div class="content" style ="margin-bottom: 1cm;">
+    <h1 style="text-align: center">Gene Search</h1>
+    <div class="content" style ="margin-top: 1cm;">
+        <h5>Enter a new query:</h5>
+        <form action="/" method="POST">
+            <select id="drop-down" name="drop-down">
+              <option value="neXtProt" {% if "neXtProt" == choice %} selected {% endif %}>neXtProt</option>
+              <option value="Ensemble" {% if "Ensemble" == choice %} selected {% endif %}>Ensemble Id</option>
+              <option value="Gene_Name" {% if "Gene_Name" == choice %} selected {% endif %}>Gene Name</option>
+              <option value="GO_Term" {% if "GO_Term" == choice %} selected {% endif %}>GO Term</option>
+              <option value="GO_Id" {% if "GO_Id" == choice %} selected {% endif %}>GO Id</option>
+              <option value="MSIG" {% if "MSIG" == choice %} selected {% endif %}>MSIG Term</option>
+              <option value="Disease" {% if "Disease" == choice %} selected {% endif %}>Disease</option>
+              <option value="Chromosome" {% if "Chromosome" == choice %} selected {% endif %}>Chromosome</option>
+            </select>
+            <input type="text" name="content" id="content">
+            <input type="submit" value="Search">
+        </form>
+    </div>
+    {% if stats %}
+        <h3 style="text-align: left">Gene stats : {{stats['ENSG']}}</h3>
+        <table>
+            <tr style="background-color: #ebebeb;">
+                <th class="header">Nexprot Id</th>
+                <th class="header">Ensembl Id</th>
+                <th class="header">Gene name</th>
+                <th class="header">uPE1</th>
+                <th class="header">Gene type</th>
+                <th class="header">Chromosome</th>
+                <th class="header">Start</th>
+                <th class="header">End</th>
+                <th class="header">PE</th>
+                <th class="header">Downloads</th>
+            </tr>
+            <tr>
+                    <td>{{stats['NextprotID']}}</td>
+                    <td>{{stats['ENSG']}}</td>
+                    <td>{{stats['GeneName']}}</td>
+                    {% if stats['unknown_function'] == '1\n' %}
+                        <td>True</td>
+                    {% else %}
+                        <td>False</td>
+                    {% endif %}
+                    <td>{{stats['gene_type']}}</td>
+                    <td>{{stats['Chr']}}</td>
+                    <td>{{stats['start']}}</td>
+                    <td>{{stats['end']}}</td>
+                    <td>{{stats['PE']}}</td>
+                    <td>
+                        <a href="/download_all/{{ stats['ENSG'] }}/ENSG">Download All</a>
+                    </td>
+                </tr>
+        </table>
+    {% endif %}
+    <!-- ################ -->
+    <!-- Begin TCGA chunk -->
+    <!-- ################ -->
+    <h3 style="text-align: left">TCGA results: {{genesTCGA.count()}}</h3>
+    {% if genesTCGA.count() < 1 %}
+    <table class="sortable">
+            <tr style="background-color: #ebebeb;">
+                <th class="header">Nexprot Id</th>
+                <th class="header">Ensembl Id</th>
+                <th class="header">Gene name</th>
+                <th class="header">uPE1</th>
+                <th class="header">PR score</th>
+                <th class="header">PR rank</th>
+                <th class="header">Connections with PE1/uPE1<sup> 1</sup>
+                <th class="header">Connections GO</th>
+                <th class="header">Connections MsigDB</th>
+                <th class="header">Connections Diseases</th>
+                <th class="header">Downloads</th>
+            </tr>
+            <tr>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>None</td>
+            </tr>
+    </table>
+    <span> <font size="1"><sup>1</sup>. If the gene is a uPE1, shows the number of correlating PE1. If the gene is a PE1, shows the number of correlating uPE1.</font></span>
+    {% else %}
+    <table class="sortable">
+        <tr style="background-color: #ebebeb;">
+            <th class="header">Nexprot Id</th>
+            <th class="header">Ensembl Id</th>
+            <th class="header">Gene name</th>
+            <th class="header">uPE1</th>
+            <th class="header">PR score</th>
+            <th class="header">PR rank</th>
+            <th class="header">Connections with PE1/uPE1<sup> 1</sup></th>
+            <th class="header">Connections GO</th>
+            <th class="header">Connections MsigDB</th>
+            <th class="header">Connections Diseases</th>
+            <th class="header">Downloads</th>
+        </tr>
+        {% for gene in genesTCGA %}
+            <tr>
+                <td><a href={{'https://www.nextprot.org/entry/' ~ gene['nexprot_id']}} target="_blank">{{ gene['nexprot_id'].split(';')|join(', ') }}</td>
+                <td><a href={{'http://www.ensembl.org/Homo_sapiens/Gene/Summary?g=' ~gene['_id']}} target="_blank">{{ gene['_id'] }}</a></td>
+                <td><a href={{'https://www.genecards.org/cgi-bin/carddisp.pl?gene=' ~ gene['gene_name']}} target="_blank">{{ gene['gene_name'] }}</a></td>
+                <td>{{ gene['UPE'] }}</td>
+                <td style="font-size: 90%;">{{ gene['PR_score'] }}</td>
+                <td>{{ gene['PR_Rank'] }}</td>
+                <td>{{ gene['N_PE_con']}}</td>
+                <td>{{ gene['N_GO_con']}}</td>
+                <td>{{ gene['N_MSIG_con']}}</td>
+                <td>{{ gene['N_Mala_con']}}</td>
+                <td>
+                    {% if target %}
+                    <a href="/download_coexpressed/{{target}}/TCGA/{{gene['_id']}}" target="_blank">Coexpressed genes</a>
+                    <br>
+                    <a href="/download_Annotations/{{target}}/TCGA/{{gene['_id']}}" target="_blank">Annotations</a>
+                    {% else %}
+                    <a href="/download_coexpressed/{{gene['_id']}}/TCGA/{{gene['_id']}}" target="_blank">Coexpressed genes</a>
+                    <br>
+                    <a href="/download_Annotations/{{gene['_id']}}/TCGA/{{gene['_id']}}" target="_blank">Annotations</a>
+                    {% endif %}
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+    <span> <font size="1"><sup>1</sup>. If the gene is a uPE1, shows the number of correlating PE1. If the gene is a PE1, shows the number of correlating uPE1.</font></span>
+    {% endif %}
+    <!-- ################ -->
+    <!-- Begin GTEX chunk -->
+    <!-- ################ -->
+    <h3 style="text-align: left">GTEX results: {{genesGTEX.count()}}</h3>
+    {% if genesGTEX.count() < 1 %}
+    <table class="sortable">
+        <tr style="background-color: #ebebeb;">
+            <th class="header">Nexprot Id</th>
+            <th class="header">Ensembl Id</th>
+            <th class="header">Gene name</th>
+            <th class="header">uPE1</th>
+            <th class="header">PR score</th>
+            <th class="header">PR rank</th>
+            <th class="header">Connections with PE1/uPE1<sup> 1</sup>
+            <th class="header">Connections GO</th>
+            <th class="header">Connections MsigDB</th>
+            <th class="header">Connections Diseases</th>
+            <th class="header">Downloads</th>
+        </tr>
+            <tr>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>None</td>
+            </tr>
+    </table>
+    <span> <font size="1"><sup>1</sup>. If the gene is a uPE1, shows the number of correlating PE1. If the gene is a PE1, shows the number of correlating uPE1.</font></span>
+    {% else %}
+    <table class="sortable">
+            <tr style="background-color: #ebebeb;">
+                <th class="header">Nexprot Id</th>
+                <th class="header">Ensembl Id</th>
+                <th class="header">Gene name</th>
+                <th class="header">uPE1</th>
+                <th class="header">PR score</th>
+                <th class="header">PR rank</th>
+                <th class="header">Connections with PE1/uPE1<sup> 1</sup>
+                <th class="header">Connections GO</th>
+                <th class="header">Connections MsigDB</th>
+                <th class="header">Connections Diseases</th>
+                <th class="header">Downloads</th>
+            </tr>
+        {% for gene in genesGTEX %}
+            <tr>
+                <td><a href={{'https://www.nextprot.org/entry/' ~ gene['nexprot_id']}} target="_blank">{{ gene['nexprot_id'].split(';')|join(', ') }}</td>
+                <td><a href={{'http://www.ensembl.org/Homo_sapiens/Gene/Summary?g=' ~gene['_id']}} target="_blank">{{ gene['_id'] }}</a></td>
+                <td><a href={{'https://www.genecards.org/cgi-bin/carddisp.pl?gene=' ~ gene['gene_name']}} target="_blank">{{ gene['gene_name'] }}</a></td>
+                <td>{{ gene['UPE'] }}</td>
+                <td style="font-size: 90%;">{{ gene['PR_score'] }}</td>
+                <td>{{ gene['PR_Rank'] }}</td>
+                <td>{{ gene['N_PE_con']}}</td>
+                <td>{{ gene['N_GO_con']}}</td>
+                <td>{{ gene['N_MSIG_con']}}</td>
+                <td>{{ gene['N_Mala_con']}}</td>
+                <td>
+                    <a href="/download_coexpressed/{{target}}/GTEX/{{gene['_id']}}" target="_blank">Coexpressed genes</a>
+                    <br>
+                    <a href="/download_Annotations/{{target}}/GTEX/{{gene['_id']}}" target="_blank">Annotations</a>
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+    <span> <font size="1"><sup>1</sup>. If the gene is a uPE1, shows the number of correlating PE1. If the gene is a PE1, shows the number of correlating uPE1.</font></span>
+    {% endif %}
+    <!-- ################ -->
+    <!-- Begin CCLE chunk -->
+    <!-- ################ -->
+    <h3 style="text-align: left">CCLE results: {{genesCCLE.count()}}</h3>
+    {% if genesCCLE.count() < 1 %}
+    <table class="sortable">
+        <tr style="background-color: #ebebeb;">
+            <th class="header">Nexprot Id</th>
+            <th class="header">Ensembl Id</th>
+            <th class="header">Gene name</th>
+            <th class="header">uPE1</th>
+            <th class="header">PR score</th>
+            <th class="header">PR rank</th>
+            <th class="header">Connections with PE1/uPE1<sup> 1</sup>
+            <th class="header">Connections GO</th>
+            <th class="header">Connections MsigDB</th>
+            <th class="header">Connections Diseases</th>
+            <th class="header">Downloads</th>
+        </tr>
+            <tr>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>No results</td>
+                <td>None</td>
+            </tr>
+    </table>
+    <span> <font size="1"><sup>1</sup>. If the gene is a uPE1, shows the number of correlating PE1. If the gene is a PE1, shows the number of correlating uPE1.</font></span>
+    {% else %}
+    <table class="sortable">
+        <tr style="background-color: #ebebeb;">
+            <th class="header">Nexprot Id</th>
+            <th class="header">Ensembl Id</th>
+            <th class="header">Gene name</th>
+            <th class="header">uPE1</th>
+            <th class="header">PR score</th>
+            <th class="header">PR rank</th>
+            <th class="header">Connections with PE1/uPE1<sup> 1</sup>
+            <th class="header">Connections GO</th>
+            <th class="header">Connections MsigDB</th>
+            <th class="header">Connections Diseases</th>
+            <th class="header">Downloads</th>
+        </tr>
+            {% for gene in genesCCLE %}
+            <tr>
+                <td><a href={{'https://www.nextprot.org/entry/' ~ gene['nexprot_id']}} target="_blank">{{ gene['nexprot_id'].split(';')|join(', ') }}</a></td>
+                <td><a href={{'http://www.ensembl.org/Homo_sapiens/Gene/Summary?g=' ~gene['_id']}} target="_blank">{{ gene['_id'] }}</a></td>
+                <td><a href={{'https://www.genecards.org/cgi-bin/carddisp.pl?gene=' ~ gene['gene_name']}} target="_blank">{{ gene['gene_name'] }}</a></td>
+                <td>{{ gene['UPE'] }}</td>
+                <td style="font-size: 90%;">{{ gene['PR_score'] }}</td>
+                <td>{{ gene['PR_Rank'] }}</td>
+                <td>{{ gene['N_PE_con']}}</td>
+                <td>{{ gene['N_GO_con']}}</td>
+                <td>{{ gene['N_MSIG_con']}}</td>
+                <td>{{ gene['N_Mala_con']}}</td>
+                <td>
+                    <a href="/download_coexpressed/{{target}}/CCLE/{{gene['_id']}}" target="_blank">Coexpressed genes</a>
+                    <br>
+                    <a href="/download_Annotations/{{target}}/CCLE/{{gene['_id']}}" target="_blank">Annotations</a>
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+    <span> <font size="1"><sup>1</sup>. If the gene is a uPE1, shows the number of correlating PE1. If the gene is a PE1, shows the number of correlating uPE1.</font></span>
+    {% endif %}
+    <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-chevron-circle-up" style="font-size:36px" aria-hidden="true"></i></button>
+    <script>
+    //Get the button
+    var mybutton = document.getElementById("myBtn");
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+    function scrollFunction() {
+      if (document.body.scrollTop > 90 || document.documentElement.scrollTop > 90) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+    </script>
+</div>
+
+
+{% endblock %}
