@@ -14,7 +14,7 @@
 </div>
 
 <div class="content" style ="margin-bottom: 1cm;">
-    <h1 style="text-align: center">Gene Search</h1>
+    <h1 style="text-align: center">{{choice}} Search</h1>
     <div class="content" style ="margin-top: 1cm;">
         <h5>Enter a new query:</h5>
         <form action="/" method="POST">
@@ -28,7 +28,7 @@
               <option value="Disease" {% if "Disease" == choice %} selected {% endif %}>Disease</option>
               <option value="Chromosome" {% if "Chromosome" == choice %} selected {% endif %}>Chromosome</option>
             </select>
-            <input type="text" name="content" id="content">
+            <input type="text" name="content" id="content" value= {{target}}>
             <input type="submit" value="Search">
         </form>
     </div>
@@ -39,8 +39,8 @@
     <h3 style="text-align: left">TCGA results: {{genesTCGA.count()}}</h3>
     {% if genesTCGA.count() < 1 %}
     <table class="sortable">
-            <tr style="background-color: #ebebeb;">
-                <th class="header">Nexprot Id</th>
+            <tr style="background-color: #9e9e9e;">
+                <th class="header">neXtProt Id</th>
                 <th class="header">Ensembl Id</th>
                 <th class="header">Gene name</th>
                 <th class="header">uPE1</th>
@@ -68,8 +68,8 @@
     </table>
     {% else %}
     <table class="sortable">
-        <tr style="background-color: #ebebeb;">
-            <th class="header">Nexprot Id</th>
+        <tr style="background-color: #9e9e9e;">
+            <th class="header">neXtProt Id</th>
             <th class="header">Ensembl Id</th>
             <th class="header">Gene name</th>
             <th class="header">uPE1</th>
@@ -106,8 +106,8 @@
     <h3 style="text-align: left">GTEX results: {{genesGTEX.count()}}</h3>
     {% if genesGTEX.count() < 1 %}
     <table class="sortable">
-        <tr style="background-color: #ebebeb;">
-            <th class="header">Nexprot Id</th>
+        <tr style="background-color: #9e9e9e;">
+            <th class="header">neXtProt Id</th>
             <th class="header">Ensembl Id</th>
             <th class="header">Gene name</th>
             <th class="header">uPE1</th>
@@ -135,8 +135,8 @@
     </table>
     {% else %}
     <table class="sortable">
-            <tr style="background-color: #ebebeb;">
-                <th class="header">Nexprot Id</th>
+            <tr style="background-color: #9e9e9e;">
+                <th class="header">neXtProt Id</th>
                 <th class="header">Ensembl Id</th>
                 <th class="header">Gene name</th>
                 <th class="header">uPE1</th>
@@ -173,8 +173,8 @@
     <h3 style="text-align: left">CCLE results: {{genesCCLE.count()}}</h3>
     {% if genesCCLE.count() < 1 %}
     <table class="sortable">
-        <tr style="background-color: #ebebeb;">
-            <th class="header">Nexprot Id</th>
+        <tr style="background-color: #9e9e9e;">
+            <th class="header">neXtProt Id</th>
             <th class="header">Ensembl Id</th>
             <th class="header">Gene name</th>
             <th class="header">uPE1</th>
@@ -202,8 +202,8 @@
     </table>
     {% else %}
     <table class="sortable">
-        <tr style="background-color: #ebebeb;">
-            <th class="header">Nexprot Id</th>
+        <tr style="background-color: #9e9e9e;">
+            <th class="header">neXtProt Id</th>
             <th class="header">Ensembl Id</th>
             <th class="header">Gene name</th>
             <th class="header">uPE1</th>

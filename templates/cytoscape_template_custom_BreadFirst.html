@@ -1,0 +1,422 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <title>UPEFinder: Graph</title>
+    <script src="/static/js/cytoscape.min.js"></script>
+</head>
+
+<style>
+    #cy {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0px;
+        left: 0px;
+    }
+    #layoutButtons {
+        position: absolute;
+        top: 5%;
+        right: 2%;
+    }
+    input[type='button'] {
+        width: 100%;
+    }
+    #userSelection {
+        position: absolute;
+        top: 5%;
+        left: 2%;
+        width: 12%;
+    }
+    iframe {
+        position: absolute;
+        top : 5%;
+        bottom: 10%;
+        right : 2%;
+        border: 1px solid black;
+        width: 30%;
+    }
+
+    .output {
+        background: #eee;
+    }
+
+    /* LEGEND */
+    /* basic positioning */
+    .legend { position: absolute; bottom: 2%; right: 2%; border: 1px solid #000; padding: 5px 15px;}
+    .legend { list-style: none; }
+    .legend li { float: left; margin-right: 10px; }
+    .legend span { border: 1px solid #000; float: left; width: 12px; height: 12px; margin: 2px; }
+    /* your colors */
+    .legend .UPE     { background-color: #cb584d; }
+    .legend .PE    { background-color: #7a75cc; }
+    .legend .GO      { background-color: #49adab; }
+    .legend .Disease { background-color: #b78f40; } 
+    .legend .MsigDB  { background-color: #6ca74d; } 
+</style>
+
+<body>
+    <div id="cy"></div>
+    <div id='userSelection'>
+        <form id='categories_form'>
+            <!-- <input type='text' id='name_search' placeholder="ENSG..."> -->
+            <p>Please select the categories to display: </p>
+            
+            <label><input type="radio" name="category" value="All" checked>All</label><br>
+            <label><input type="radio" name="category" value="Gene">PE1 protein</label><br>
+            <label><input type="radio" name="category" value="GO">Gene Ontology</label><br>
+            <label><input type="radio" name="category" value="Mala">Disease</label><br>
+            <label><input type="radio" name="category" value="Msig">Msig</label><br>
+            
+        </form>
+        <!--  -->
+        <br>
+        <input type='text' id='degree_filter' placeholder="Degree">
+        <input type='button' id='submitButton' value='Filter by Degree'>
+
+    </div>
+    <ul class="legend">
+        <li><span class="UPE"></span> Uncharacterized protein</li>
+        <li><span class="PE"></span> PE1 protein</li>
+        <li><span class="GO"></span> Gene Ontology term</li>
+        <li><span class="Disease"></span> Disease</li>
+        <li><span class="MsigDB"></span> MsigDB</li>
+        <br>
+        <div>Annotation node size depends on the Page Rank score (MIN_pr ; MAX_pr).</div>
+        <div>PE1 protein node size depends on the correlation with the uPE (MIN_corr ; MAX_corr).</div>
+    </ul>
+    
+    <div id='layoutButtons'>
+        <input type='button' id='concentricButton' value='Redo layout'>
+    </div>
+    <script>
+      var cy = cytoscape({
+        container: document.getElementById('cy'),
+        elements: JSONDATA,
+    style: cytoscape.stylesheet()
+        .selector('core')
+            .css({
+                "selection-box-color": "#AAD8FF",
+                "selection-box-border-color": "#8BB0D0",
+                "selection-box-opacity": "0.5"
+        })
+        .selector('node[type="Gene"]')
+            .css({
+                'width':  'mapData(corr, MIN_corr, MAX_corr, 20, 150)',
+                'height': 'mapData(corr, MIN_corr, MAX_corr, 20, 150)',
+                'background-color': '#7a75cc',
+                'border-width' : 2,
+                'border-opacity' : 0.5,
+                'label': 'data(id)',
+                'text-valign': 'center',
+                'text-halign': 'center',
+                'opacity': 1,
+                'color': '#F0F0F0',
+                'font-size' : '10%',
+                // 'text-transform': 'uppercase',
+                'text-outline-color': '#474747',
+                'text-outline-width': 1,
+                'text-outline-opacity':1,
+            })
+            .selector('edge[type="Gene"]')
+            .css({
+                'line-color' : '#8985c7',
+                "curve-style": "haystack",
+                'opacity': '0.2'
+            })
+            .selector('node[type="UPE"]')
+            .css({
+                'width'  : 150,
+                'height' : 150,
+                'background-color': '#cb584d',
+                'border-width' : 2,
+                'border-opacity' : 0.5,
+                'label': 'data(id)',
+                'text-valign': 'center',
+                'text-halign': 'center',
+                'opacity': 1,
+                'color': '#F0F0F0',
+                'font-size' : '10%',
+                // 'text-transform': 'uppercase',
+                'text-outline-color': '#474747',
+                'text-outline-width': 1,
+                'text-outline-opacity':1,
+                'z-index': 10
+
+            })
+            .selector('edge[type="UPE"]')
+            .css({
+                'line-color' : '#a35d56',
+                "curve-style": "haystack",
+                'opacity': '0.2'
+            })
+            .selector('node[type="GO"]')
+            .css({
+                'width':  'mapData(PR_score, MIN_pr, MAX_pr, 20, 150)',
+                'height': 'mapData(PR_score, MIN_pr, MAX_pr, 20, 150)',
+                'background-color': '#49adab',
+                'border-width' : 2,
+                'border-opacity' : 0.5,
+                'label': 'data(id)',
+                'text-valign': 'center',
+                'text-halign': 'center',
+                'opacity': 1,
+                'color': '#F0F0F0',
+                'font-size' : '10%',
+                // 'text-transform': 'uppercase',
+                'text-outline-color': '#474747',
+                'text-outline-width': 1,
+                'text-outline-opacity':1,
+
+            })
+            .selector('edge[type="GO"]')
+            .css({
+                'line-color' : '#5a9c9a',
+                "curve-style": "haystack",
+                'opacity': '0.2'
+            })
+            .selector('node[type="Msig"]')
+            .css({
+                'width':  'mapData(PR_score, MIN_pr, MAX_pr, 20, 150)',
+                'height': 'mapData(PR_score, MIN_pr, MAX_pr, 20, 150)',
+                'background-color': '#6ca74d',
+                'border-width' : 2,
+                'border-opacity' : 0.5,
+                'label': 'data(id)',
+                'text-valign': 'center',
+                'text-halign': 'center',
+                'opacity': 1,
+                'color': '#F0F0F0',
+                'font-size' : '10%',
+                // 'text-transform': 'uppercase',
+                'text-outline-color': '#474747',
+                'text-outline-width': 1,
+                'text-outline-opacity':1,
+                'text-wrap' : 'ellipsis',
+                'text-max-width' : '200ppx'
+
+            })
+            .selector('edge[type="Msig"]')
+            .css({
+                'line-color' : '#668257',
+                "curve-style": "haystack",
+                'opacity': '0.2'
+            })
+            .selector('node[type="Mala"]')
+            .css( {
+                'width':  'mapData(PR_score, MIN_pr, MAX_pr, 20, 150)',
+                'height': 'mapData(PR_score, MIN_pr, MAX_pr, 20, 150)',
+                'background-color': '#b78f40',
+                'border-width' : 2,
+                'border-opacity' : 0.5,
+                'label': 'data(id)',
+                'text-valign': 'center',
+                'text-halign': 'center',
+                'opacity': 1,
+                'color': '#F0F0F0',
+                'font-size' : '10%',
+                // 'text-transform': 'uppercase',
+                'text-outline-color': '#474747',
+                'text-outline-width': 1,
+                'text-outline-opacity':1,
+                'text-wrap' : 'ellipsis',
+                'text-max-width' : '200ppx'
+            })
+            .selector('edge[type="Mala"]')
+            .css({
+                'line-color' : '#917a4c',
+                "curve-style": "haystack",
+                'opacity': '0.2'
+            })
+        .selector(':selected')
+            .css({
+                'background-color': 'red'
+            })
+        .selector('node.highlight')
+            .css({
+                'label': 'data(id)',
+                'text-wrap' : 'ellipsis',
+                'text-max-width' : '10000ppx',
+                'border-color': '#000000',
+                'border-width': 3,
+                'z-index': 99999
+            })
+        .selector('node.semitransp')
+            .css({
+                'opacity': '0.1'
+            })
+        .selector('node.transp')
+            .css({
+                'opacity': '0'
+            })
+        .selector('edge.highlight')
+            .css({
+                'mid-target-arrow-color': '#FFF',
+                'opacity': '0.5'
+            })
+        .selector('edge.semitransp')
+            .css({
+                'opacity': '0.05'
+            })
+        .selector('edge.transp')
+            .css({
+                'opacity': '0'
+            })
+        })
+        // Info on tap
+        cy.on('tap', 'node', function(){
+            switch (this.data('type')){
+                case 'Gene' : 
+                href = 'http://www.ensembl.org/Homo_sapiens/Gene/Summary?g=' + this.data('id');
+                break;
+
+                case 'GO' :
+                href = 'http://amigo.geneontology.org/amigo/search/ontology?q=' + this.data('id');
+                break;
+
+                case 'Mala' : 
+                href = 'https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=' + this.data('id');
+                break;
+
+                case 'Msig' :
+                href = 'https://www.gsea-msigdb.org/gsea/msigdb/cards/' + this.data('id');
+                break;
+            }
+            console.log('Href: ' + href);
+            try { // your browser may block popups
+                    window.open( href );
+                } catch(e){ // fall back on url change
+                    window.location.href = href;
+                }
+        });
+
+        // Remove nodes without edges
+        cy.nodes(function(element){
+        if( element.isNode() && element.degree()<2){
+            cy.remove(element)
+            }
+        })
+        
+        // Define layout
+        cy.layout({
+            name: 'breadthfirst',
+            circle: true
+            }).run(),
+            // after create the random positions, set the root node at center
+            cy.nodes('node[center = "True"]').position({
+                x: 1000,
+                y: 500
+                });
+            ; 
+        
+        // Muse behaviour 
+        cy.on('mouseover', 'node', function(e){
+            var sel = e.target;
+            cy.elements().difference(sel.outgoers().union(sel.incomers())).not(sel).addClass('semitransp');
+            sel.addClass('highlight').outgoers().addClass('highlight');
+         })
+        cy.on('mouseout', 'node', function(e){
+            var sel = e.target;
+            cy.elements().removeClass('semitransp');
+            sel.removeClass('highlight').outgoers().union(sel.incomers()).removeClass('highlight');
+        })
+    // reapply laypout
+    var concentricButton = document.getElementById('concentricButton');
+             concentricButton.addEventListener('click', function() {
+                cy.layout(
+                    {name: 'breadthfirst',
+                    circle: true
+            }).run(); 
+            cy.nodes('node[center = "True"]').position({
+                x: 1000,
+                y: 500
+                });
+         });
+    var submitButton = document.getElementById('submitButton');
+        submitButton.addEventListener('click', function() {
+            var userInput = document.getElementById('degree_filter').value;
+            if (userInput) {
+                mainUser = userInput;
+                cy.nodes(function(element){
+                   if( element.isNode() && element.degree()<userInput){
+                    cy.remove(element)
+                    }
+                    cy.layout({
+                        // concentric: function( node ){
+                        //     return node.degree() *10 ;
+                        // },
+                        // levelWidth: function( nodes ){ 
+                        //     return nodes.degree() *10;
+                        // },
+                        name: 'breadthfirst',
+                        circle: true
+                        }).run();
+                    })
+            } else {
+            // default value
+            mainUser = 'cytoscape';
+            }
+        });
+        function getRadioVal(form, name) {
+                var val;
+                // get list of radio buttons with specified name
+                var radios = form.elements[name];            
+                // loop through list of radio buttons
+                for (var i=0, len=radios.length; i<len; i++) {
+                    if ( radios[i].checked ) { // radio checked?
+                        val = radios[i].value; // if so, hold its value in val
+                        break; // and break out of for loop
+                    }
+                }
+                return val; // return value of checked radio or undefined if none checked
+            }
+    var displayButton = document.getElementById('categories_form');
+        displayButton.addEventListener('click', function(){
+            var userInput = getRadioVal( document.getElementById('categories_form'), 'category' );
+            console.log('userInput', userInput)
+            if (userInput){
+                mainUser = userInput;
+                cy.nodes(function(element){
+                    if( userInput == 'All'){
+                        element.removeClass('transp').outgoers().union(element.incomers()).removeClass('transp');
+                        console.log('UPE_id: ', cy.filter('node[type = "UPE"]').data('id'))
+                        cy.remove('edge[type= "tmp"]')
+                    }else if(element.isNode() && element.data('type') != userInput && element.data('type') != 'UPE'){
+                        element.addClass('transp');
+                        element.connectedEdges().addClass('transp')
+                    }else{
+                        element.removeClass('transp')
+                        if ( element.data('type')!= 'UPE'){
+                        cy.add({
+                            data:{
+                                source: element.data('id'),
+                                target: cy.filter('node[type = "UPE"]').data('id'),
+                                type: 'tmp'
+                            }
+                        })}
+                    }
+                })
+            }else{
+                mainUser = 'cytoscape';
+            }
+        }
+        );
+
+    // var submitButton = document.getElementById('name_search');
+    //     submitButton.addEventListener('keypress', function() {
+    //         var userInput = document.getElementById('name_search').value;
+    //         if (userInput) {
+    //             cy.nodes(function(element){
+    //                 if( element.isNode() && element.data('id').includes(userInput)){
+    //                     console.log('userInput', userInput)
+    //                     element.addClass('highlight')
+    //                 }
+    //             })
+    //         }
+    //     });
+    </script>
+</body>
+</html>
+
+

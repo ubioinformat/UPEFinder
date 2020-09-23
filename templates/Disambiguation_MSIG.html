@@ -28,18 +28,17 @@
               <option value="Disease" {% if "Disease" == choice %} selected {% endif %}>Disease</option>
               <option value="Chromosome" {% if "Chromosome" == choice %} selected {% endif %}>Chromosome</option>
             </select>
-            <input type="text" name="content" id="content">
+            <input type="text" name="content" id="content" value={{target}}>
             <input type="submit" value="Search">
         </form>
     </div>
     <!-- ################ -->
-    <!-- Begin TCGA chunk -->
     <!-- ################ -->
     <p><font size="3">Results of approximate search of <strong>{{target}}</strong>. Please select one to proceed with the search.</font></p>
     <h3 style="text-align: left">Msig results: {{msig_stats.count()}}</h3>
     {% if msig_stats.count() < 1 %}
     <table class="sortable">
-            <tr style="background-color: #ebebeb;">
+            <tr style="background-color: #9e9e9e;">
                 <th class="header">Msig Description</th>
                 <th class="header">PR Rank TCGA</th>
                 <th class="header">PR Rank GTEX</th>
@@ -56,7 +55,7 @@
     </table>
     {% else %}
     <table class="sortable">
-            <tr style="background-color: #ebebeb;">
+            <tr style="background-color: #9e9e9e;">
                 <th class="header">Msig Description</th>
                 <th class="header">PR Rank TCGA</th>
                 <th class="header">PR Rank GTEX</th>

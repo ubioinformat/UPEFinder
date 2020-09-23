@@ -28,7 +28,7 @@
               <option value="Disease" {% if "Disease" == choice %} selected {% endif %}>Disease</option>
               <option value="Chromosome" {% if "Chromosome" == choice %} selected {% endif %}>Chromosome</option>
             </select>
-            <input type="text" name="content" id="content">
+            <input type="text" name="content" id="content" value={{target}}>
             <input type="submit" value="Search">
         </form>
     </div>
@@ -39,7 +39,7 @@
     <h3 style="text-align: left">Disease results: {{mala_stats.count()}}</h3>
     {% if mala_stats.count() < 1 %}
     <table class="sortable">
-        <tr style="background-color: #ebebeb;">
+        <tr style="background-color: #9e9e9e;">
             <th class="header">Disease name</th>
             <th class="header">Disease description</th>
             <th class="header">Parent</th>
@@ -62,7 +62,7 @@
     </table>
     {% else %}
     <table class="sortable">
-            <tr style="background-color: #ebebeb;">
+            <tr style="background-color: #9e9e9e;">
                     <th class="header">Disease name</th>
                     <th class="header">Disease description</th>
                     <th class="header">Parent</th>
